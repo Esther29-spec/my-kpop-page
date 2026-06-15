@@ -1,3 +1,6 @@
+# Esther's-kpop-page
+All about Kpop...
+Just a girl who loves a bit of this and that
 # A Good Girl's Guide to Kpop
 
 A Pen created on CodePen.
