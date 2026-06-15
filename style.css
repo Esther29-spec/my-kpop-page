@@ -1,0 +1,63 @@
+html::before {
+  content: 'CodePen ♥ The Web';
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #0d0d1a;
+  color: #f0f0f0;
+  line-height: 1.7;
+}
+  margin: auto;
+  width: fit-content;
+  height: fit-content;
+  font-family: sans-serif;
+  opacity: 0.6;
+  background: rebeccapurple;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+#kpop{
+  display: block;
+  width: 40%;
+  margin: 0 auto;
+}
+h1{
+  background-color: lightpink;
+}
+h2{
+  background-color: lightpink;
+}
+.pop{
+  color: purple;
+}
+#enhypen{
+  color: red;
+}
+#enhypen-pic{
+  width: 350px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border: 6px ridge brown;
+  
+}
+#bts{
+   width: 350px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border: 6px ridge grey;
+}
+#father{
+  color: purple;
+}
+p{
+  font-family: sans-serif;
+}
+ul{
+  font-family: sans-serif;
+}
+ol{
+  font-family: sans-serif;
+}
